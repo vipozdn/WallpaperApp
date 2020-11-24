@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestIW</string>
+    <string name="title_photo">Photo</string>
+    <string name="title_favorites">favorite</string>
+    <string name="title_info">information</string>
+    <string name="favorite_added">This photo was added to Favorite</string>
+    <string name="favorite_removed">This photo was removed from Favorite</string>
+    <string name="empty_favorite">You don\'t have any favorites yet!</string>
+    <string name="info_string">Victor Andreevich Pozdnyakov\n\n+7–978–137–46–84\nvictorius152@gmail.com\n\nLibraries:\nRetrofit2\nGson\nRealm</string>
+    <string name="show_on_map">Show on Map</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
